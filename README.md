@@ -1,36 +1,36 @@
 # Nightingale VoiceAI
 
-专业医疗语音AI系统，提供隐私保护的患者护理体验。
+Professional medical voice AI system providing privacy-protected patient care experiences.
 
-## 快速开始
+## Quick Start
 
 ```bash
-# 安装依赖
+# Install dependencies
 pip install -r requirements.txt
 
-# 启动系统
+# Start the system
 ./start_system.sh
 ```
 
-## 访问系统
+## Access Points
 
-- **患者门户**: http://localhost:8501
-- **管理控制台**: http://localhost:8502  
-- **API文档**: http://localhost:8888/docs
+- **Patient Portal**: http://localhost:8501
+- **Admin Dashboard**: http://localhost:8502  
+- **API Documentation**: http://localhost:8888/docs
 
-## 主要功能
+## Key Features
 
-- 🛡️ 隐私保护：自动PHI检测和数据脱敏
-- 🎤 语音处理：高精度转录和智能分析
-- 📋 智能摘要：患者和医护版差异化摘要
-- 🏥 专业界面：符合医疗标准的用户体验
+- 🛡️ **Privacy Protection**: Automatic PHI detection and data redaction
+- 🎤 **Voice Processing**: High-precision transcription and intelligent analysis
+- 📋 **Intelligent Summaries**: Differentiated summaries for patients and healthcare providers
+- 🏥 **Professional Interface**: User experience compliant with medical standards
 
-## 使用流程
+## Usage Flow
 
-1. 访问患者门户 (http://localhost:8501)
-2. 填写数字同意书
-3. 上传音频文件
-4. 查看智能摘要结果
+1. Access the patient portal (http://localhost:8501)
+2. Complete digital consent form
+3. Upload audio files
+4. Review intelligent summary results
 
 ## Documentation
 
